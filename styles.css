@@ -4,7 +4,7 @@ body{
   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 header{
-  padding: 20px 200px  20px 200px ;
+  padding: 20px 20vw  20px 20vw ;
   background-color: #1F2937;
   display: flex;
   justify-content: space-between;
@@ -29,7 +29,7 @@ a{
   color: #E5E7EB;
 }
 .top-content{
-  padding: 100px 200px  100px 200px ;
+  padding: 100px 20vw  100px 20vw ;
   background-color: #1F2937;
   display: flex;
   gap: 90px;
@@ -58,7 +58,7 @@ a{
 }
 .content2,
 .content3 {
-  padding: 50px 200px  100px 200px ;
+  padding: 50px 20vw  100px 20vw ;
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -124,7 +124,7 @@ a{
 
 .call-to-action{
   display: flex;
-  padding: 100px 200px;
+  padding: 100px 20vw;
 }
 
 .container{
@@ -159,7 +159,7 @@ a{
 }
 
 .footer{
-  padding: 30px 200px  30px 200px ;
+  padding: 30px 20vw ;
   background-color: #1F2937;
   display: flex;
   justify-content: center;
