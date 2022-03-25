@@ -1,6 +1,6 @@
 Landing Page using HTML & CSS with focus on flexbox!
 
-Live preview:
+Live preview: https://tonums.github.io/landing-page/
 
 
 What I've learned/used:
